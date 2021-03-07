@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="style4.css">
 </head>
 <body>
-  <h1>AKP CODEMY AUTHENTICATION SYSTEM</h1><br><br>
+  <h1>SIDE HUSTLE AUTHENTICATION SYSTEM TASK4</h1><br><br>
   <form action="register.php" class="form-control">
     <p class="join">You want to join the Academy</p><br>
     <input type="submit" value="Click Me">
